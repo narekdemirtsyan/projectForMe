@@ -52,6 +52,8 @@ function App() {
         <a href="/about">About</a>
         </li>
 
+        <p>Loren</p>
+
     </div>
     );
 }
